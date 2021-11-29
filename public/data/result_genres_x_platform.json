@@ -1,0 +1,1615 @@
+[
+    {
+        "platform": "Neo Geo AES",
+        "genres": [
+            {
+                "genre_name": "Fighting",
+                "tot": 62
+            },
+            {
+                "genre_name": "Arcade",
+                "tot": 26
+            },
+            {
+                "genre_name": "Shooter",
+                "tot": 25
+            },
+            {
+                "genre_name": "Sport",
+                "tot": 21
+            },
+            {
+                "genre_name": "Platform",
+                "tot": 16
+            },
+            {
+                "genre_name": "Hack and slash/Beat 'em up",
+                "tot": 12
+            },
+            {
+                "genre_name": "Adventure",
+                "tot": 8
+            }
+        ]
+    },
+    {
+        "platform": "Super Nintendo Entertainment System (SNES)",
+        "genres": [
+            {
+                "genre_name": "Sport",
+                "tot": 496
+            },
+            {
+                "genre_name": "Platform",
+                "tot": 290
+            },
+            {
+                "genre_name": "Adventure",
+                "tot": 193
+            },
+            {
+                "genre_name": "Strategy",
+                "tot": 184
+            },
+            {
+                "genre_name": "Fighting",
+                "tot": 159
+            },
+            {
+                "genre_name": "Role-playing (RPG)",
+                "tot": 157
+            },
+            {
+                "genre_name": "Puzzle",
+                "tot": 152
+            }
+        ]
+    },
+    {
+        "platform": "Wii",
+        "genres": [
+            {
+                "genre_name": "Adventure",
+                "tot": 507
+            },
+            {
+                "genre_name": "Sport",
+                "tot": 402
+            },
+            {
+                "genre_name": "Platform",
+                "tot": 302
+            },
+            {
+                "genre_name": "Puzzle",
+                "tot": 278
+            },
+            {
+                "genre_name": "Shooter",
+                "tot": 276
+            },
+            {
+                "genre_name": "Simulator",
+                "tot": 253
+            },
+            {
+                "genre_name": "Arcade",
+                "tot": 194
+            }
+        ]
+    },
+    {
+        "platform": "PlayStation VR",
+        "genres": [
+            {
+                "genre_name": "Adventure",
+                "tot": 130
+            },
+            {
+                "genre_name": "Indie",
+                "tot": 121
+            },
+            {
+                "genre_name": "Simulator",
+                "tot": 72
+            },
+            {
+                "genre_name": "Puzzle",
+                "tot": 58
+            },
+            {
+                "genre_name": "Shooter",
+                "tot": 51
+            },
+            {
+                "genre_name": "Arcade",
+                "tot": 19
+            },
+            {
+                "genre_name": "Strategy",
+                "tot": 19
+            }
+        ]
+    },
+    {
+        "platform": "iOS",
+        "genres": [
+            {
+                "genre_name": "Puzzle",
+                "tot": 1699
+            },
+            {
+                "genre_name": "Indie",
+                "tot": 1695
+            },
+            {
+                "genre_name": "Adventure",
+                "tot": 1692
+            },
+            {
+                "genre_name": "Strategy",
+                "tot": 1240
+            },
+            {
+                "genre_name": "Role-playing (RPG)",
+                "tot": 1148
+            },
+            {
+                "genre_name": "Arcade",
+                "tot": 1031
+            },
+            {
+                "genre_name": "Simulator",
+                "tot": 1004
+            }
+        ]
+    },
+    {
+        "platform": "Nintendo Entertainment System (NES)",
+        "genres": [
+            {
+                "genre_name": "Platform",
+                "tot": 323
+            },
+            {
+                "genre_name": "Adventure",
+                "tot": 221
+            },
+            {
+                "genre_name": "Arcade",
+                "tot": 203
+            },
+            {
+                "genre_name": "Shooter",
+                "tot": 189
+            },
+            {
+                "genre_name": "Sport",
+                "tot": 156
+            },
+            {
+                "genre_name": "Puzzle",
+                "tot": 131
+            },
+            {
+                "genre_name": "Strategy",
+                "tot": 91
+            }
+        ]
+    },
+    {
+        "platform": "PC (Microsoft Windows)",
+        "genres": [
+            {
+                "genre_name": "Indie",
+                "tot": 30117
+            },
+            {
+                "genre_name": "Adventure",
+                "tot": 20644
+            },
+            {
+                "genre_name": "Strategy",
+                "tot": 9753
+            },
+            {
+                "genre_name": "Simulator",
+                "tot": 9690
+            },
+            {
+                "genre_name": "Role-playing (RPG)",
+                "tot": 8327
+            },
+            {
+                "genre_name": "Puzzle",
+                "tot": 5150
+            },
+            {
+                "genre_name": "Shooter",
+                "tot": 4513
+            }
+        ]
+    },
+    {
+        "platform": "Oculus VR",
+        "genres": [
+            {
+                "genre_name": "Indie",
+                "tot": 135
+            },
+            {
+                "genre_name": "Adventure",
+                "tot": 113
+            },
+            {
+                "genre_name": "Simulator",
+                "tot": 68
+            },
+            {
+                "genre_name": "Shooter",
+                "tot": 57
+            },
+            {
+                "genre_name": "Puzzle",
+                "tot": 40
+            },
+            {
+                "genre_name": "Arcade",
+                "tot": 29
+            },
+            {
+                "genre_name": "Sport",
+                "tot": 28
+            }
+        ]
+    },
+    {
+        "platform": "Game Boy Advance",
+        "genres": [
+            {
+                "genre_name": "Adventure",
+                "tot": 328
+            },
+            {
+                "genre_name": "Platform",
+                "tot": 252
+            },
+            {
+                "genre_name": "Sport",
+                "tot": 230
+            },
+            {
+                "genre_name": "Role-playing (RPG)",
+                "tot": 191
+            },
+            {
+                "genre_name": "Strategy",
+                "tot": 158
+            },
+            {
+                "genre_name": "Puzzle",
+                "tot": 135
+            },
+            {
+                "genre_name": "Racing",
+                "tot": 124
+            }
+        ]
+    },
+    {
+        "platform": "Atari 7800",
+        "genres": [
+            {
+                "genre_name": "Shooter",
+                "tot": 23
+            },
+            {
+                "genre_name": "Arcade",
+                "tot": 22
+            },
+            {
+                "genre_name": "Sport",
+                "tot": 17
+            },
+            {
+                "genre_name": "Platform",
+                "tot": 8
+            },
+            {
+                "genre_name": "Fighting",
+                "tot": 7
+            },
+            {
+                "genre_name": "Adventure",
+                "tot": 7
+            },
+            {
+                "genre_name": "Simulator",
+                "tot": 6
+            }
+        ]
+    },
+    {
+        "platform": "PlayStation",
+        "genres": [
+            {
+                "genre_name": "Sport",
+                "tot": 435
+            },
+            {
+                "genre_name": "Adventure",
+                "tot": 432
+            },
+            {
+                "genre_name": "Shooter",
+                "tot": 300
+            },
+            {
+                "genre_name": "Racing",
+                "tot": 286
+            },
+            {
+                "genre_name": "Simulator",
+                "tot": 269
+            },
+            {
+                "genre_name": "Role-playing (RPG)",
+                "tot": 213
+            },
+            {
+                "genre_name": "Fighting",
+                "tot": 212
+            }
+        ]
+    },
+    {
+        "platform": "Dreamcast",
+        "genres": [
+            {
+                "genre_name": "Adventure",
+                "tot": 93
+            },
+            {
+                "genre_name": "Sport",
+                "tot": 78
+            },
+            {
+                "genre_name": "Shooter",
+                "tot": 77
+            },
+            {
+                "genre_name": "Racing",
+                "tot": 61
+            },
+            {
+                "genre_name": "Fighting",
+                "tot": 56
+            },
+            {
+                "genre_name": "Simulator",
+                "tot": 50
+            },
+            {
+                "genre_name": "Role-playing (RPG)",
+                "tot": 37
+            }
+        ]
+    },
+    {
+        "platform": "Nintendo 3DS",
+        "genres": [
+            {
+                "genre_name": "Adventure",
+                "tot": 532
+            },
+            {
+                "genre_name": "Puzzle",
+                "tot": 377
+            },
+            {
+                "genre_name": "Strategy",
+                "tot": 268
+            },
+            {
+                "genre_name": "Platform",
+                "tot": 247
+            },
+            {
+                "genre_name": "Role-playing (RPG)",
+                "tot": 242
+            },
+            {
+                "genre_name": "Arcade",
+                "tot": 205
+            },
+            {
+                "genre_name": "Simulator",
+                "tot": 181
+            }
+        ]
+    },
+    {
+        "platform": "Mac",
+        "genres": [
+            {
+                "genre_name": "Indie",
+                "tot": 7962
+            },
+            {
+                "genre_name": "Adventure",
+                "tot": 5257
+            },
+            {
+                "genre_name": "Strategy",
+                "tot": 2630
+            },
+            {
+                "genre_name": "Simulator",
+                "tot": 2224
+            },
+            {
+                "genre_name": "Role-playing (RPG)",
+                "tot": 2028
+            },
+            {
+                "genre_name": "Puzzle",
+                "tot": 1845
+            },
+            {
+                "genre_name": "Platform",
+                "tot": 1120
+            }
+        ]
+    },
+    {
+        "platform": "PC DOS",
+        "genres": [
+            {
+                "genre_name": "Adventure",
+                "tot": 869
+            },
+            {
+                "genre_name": "Strategy",
+                "tot": 515
+            },
+            {
+                "genre_name": "Simulator",
+                "tot": 485
+            },
+            {
+                "genre_name": "Shooter",
+                "tot": 436
+            },
+            {
+                "genre_name": "Arcade",
+                "tot": 409
+            },
+            {
+                "genre_name": "Puzzle",
+                "tot": 323
+            },
+            {
+                "genre_name": "Role-playing (RPG)",
+                "tot": 319
+            }
+        ]
+    },
+    {
+        "platform": "Wii U",
+        "genres": [
+            {
+                "genre_name": "Adventure",
+                "tot": 495
+            },
+            {
+                "genre_name": "Platform",
+                "tot": 296
+            },
+            {
+                "genre_name": "Puzzle",
+                "tot": 256
+            },
+            {
+                "genre_name": "Indie",
+                "tot": 239
+            },
+            {
+                "genre_name": "Strategy",
+                "tot": 197
+            },
+            {
+                "genre_name": "Arcade",
+                "tot": 168
+            },
+            {
+                "genre_name": "Role-playing (RPG)",
+                "tot": 138
+            }
+        ]
+    },
+    {
+        "platform": "New Nintendo 3DS",
+        "genres": [
+            {
+                "genre_name": "Adventure",
+                "tot": 25
+            },
+            {
+                "genre_name": "Platform",
+                "tot": 16
+            },
+            {
+                "genre_name": "Puzzle",
+                "tot": 11
+            },
+            {
+                "genre_name": "Arcade",
+                "tot": 11
+            },
+            {
+                "genre_name": "Shooter",
+                "tot": 8
+            },
+            {
+                "genre_name": "Indie",
+                "tot": 6
+            },
+            {
+                "genre_name": "Role-playing (RPG)",
+                "tot": 6
+            }
+        ]
+    },
+    {
+        "platform": "MSX",
+        "genres": [
+            {
+                "genre_name": "Arcade",
+                "tot": 199
+            },
+            {
+                "genre_name": "Shooter",
+                "tot": 192
+            },
+            {
+                "genre_name": "Adventure",
+                "tot": 186
+            },
+            {
+                "genre_name": "Platform",
+                "tot": 164
+            },
+            {
+                "genre_name": "Puzzle",
+                "tot": 85
+            },
+            {
+                "genre_name": "Sport",
+                "tot": 83
+            },
+            {
+                "genre_name": "Role-playing (RPG)",
+                "tot": 78
+            }
+        ]
+    },
+    {
+        "platform": "Atari 8-bit",
+        "genres": [
+            {
+                "genre_name": "Arcade",
+                "tot": 239
+            },
+            {
+                "genre_name": "Adventure",
+                "tot": 171
+            },
+            {
+                "genre_name": "Shooter",
+                "tot": 159
+            },
+            {
+                "genre_name": "Strategy",
+                "tot": 114
+            },
+            {
+                "genre_name": "Platform",
+                "tot": 97
+            },
+            {
+                "genre_name": "Puzzle",
+                "tot": 78
+            },
+            {
+                "genre_name": "Simulator",
+                "tot": 76
+            }
+        ]
+    },
+    {
+        "platform": "PlayStation Portable",
+        "genres": [
+            {
+                "genre_name": "Adventure",
+                "tot": 345
+            },
+            {
+                "genre_name": "Role-playing (RPG)",
+                "tot": 228
+            },
+            {
+                "genre_name": "Strategy",
+                "tot": 186
+            },
+            {
+                "genre_name": "Sport",
+                "tot": 177
+            },
+            {
+                "genre_name": "Visual Novel",
+                "tot": 158
+            },
+            {
+                "genre_name": "Puzzle",
+                "tot": 151
+            },
+            {
+                "genre_name": "Simulator",
+                "tot": 130
+            }
+        ]
+    },
+    {
+        "platform": "Nintendo 64",
+        "genres": [
+            {
+                "genre_name": "Sport",
+                "tot": 141
+            },
+            {
+                "genre_name": "Racing",
+                "tot": 68
+            },
+            {
+                "genre_name": "Adventure",
+                "tot": 68
+            },
+            {
+                "genre_name": "Simulator",
+                "tot": 61
+            },
+            {
+                "genre_name": "Platform",
+                "tot": 48
+            },
+            {
+                "genre_name": "Shooter",
+                "tot": 47
+            },
+            {
+                "genre_name": "Fighting",
+                "tot": 45
+            }
+        ]
+    },
+    {
+        "platform": "Oculus Quest",
+        "genres": [
+            {
+                "genre_name": "Adventure",
+                "tot": 51
+            },
+            {
+                "genre_name": "Indie",
+                "tot": 41
+            },
+            {
+                "genre_name": "Simulator",
+                "tot": 30
+            },
+            {
+                "genre_name": "Puzzle",
+                "tot": 25
+            },
+            {
+                "genre_name": "Arcade",
+                "tot": 19
+            },
+            {
+                "genre_name": "Sport",
+                "tot": 14
+            },
+            {
+                "genre_name": "Shooter",
+                "tot": 13
+            }
+        ]
+    },
+    {
+        "platform": "Family Computer",
+        "genres": [
+            {
+                "genre_name": "Adventure",
+                "tot": 125
+            },
+            {
+                "genre_name": "Role-playing (RPG)",
+                "tot": 124
+            },
+            {
+                "genre_name": "Sport",
+                "tot": 118
+            },
+            {
+                "genre_name": "Platform",
+                "tot": 108
+            },
+            {
+                "genre_name": "Strategy",
+                "tot": 79
+            },
+            {
+                "genre_name": "Puzzle",
+                "tot": 55
+            },
+            {
+                "genre_name": "Shooter",
+                "tot": 46
+            }
+        ]
+    },
+    {
+        "platform": "Xbox Series X|S",
+        "genres": [
+            {
+                "genre_name": "Adventure",
+                "tot": 411
+            },
+            {
+                "genre_name": "Indie",
+                "tot": 283
+            },
+            {
+                "genre_name": "Role-playing (RPG)",
+                "tot": 179
+            },
+            {
+                "genre_name": "Shooter",
+                "tot": 154
+            },
+            {
+                "genre_name": "Simulator",
+                "tot": 144
+            },
+            {
+                "genre_name": "Puzzle",
+                "tot": 103
+            },
+            {
+                "genre_name": "Platform",
+                "tot": 100
+            }
+        ]
+    },
+    {
+        "platform": "Nintendo DS",
+        "genres": [
+            {
+                "genre_name": "Adventure",
+                "tot": 450
+            },
+            {
+                "genre_name": "Puzzle",
+                "tot": 296
+            },
+            {
+                "genre_name": "Simulator",
+                "tot": 278
+            },
+            {
+                "genre_name": "Role-playing (RPG)",
+                "tot": 201
+            },
+            {
+                "genre_name": "Strategy",
+                "tot": 197
+            },
+            {
+                "genre_name": "Platform",
+                "tot": 175
+            },
+            {
+                "genre_name": "Sport",
+                "tot": 128
+            }
+        ]
+    },
+    {
+        "platform": "PlayStation 4",
+        "genres": [
+            {
+                "genre_name": "Adventure",
+                "tot": 3097
+            },
+            {
+                "genre_name": "Indie",
+                "tot": 2608
+            },
+            {
+                "genre_name": "Role-playing (RPG)",
+                "tot": 1431
+            },
+            {
+                "genre_name": "Simulator",
+                "tot": 1036
+            },
+            {
+                "genre_name": "Arcade",
+                "tot": 1030
+            },
+            {
+                "genre_name": "Puzzle",
+                "tot": 1019
+            },
+            {
+                "genre_name": "Shooter",
+                "tot": 986
+            }
+        ]
+    },
+    {
+        "platform": "Xbox 360",
+        "genres": [
+            {
+                "genre_name": "Adventure",
+                "tot": 640
+            },
+            {
+                "genre_name": "Shooter",
+                "tot": 594
+            },
+            {
+                "genre_name": "Sport",
+                "tot": 397
+            },
+            {
+                "genre_name": "Simulator",
+                "tot": 241
+            },
+            {
+                "genre_name": "Role-playing (RPG)",
+                "tot": 238
+            },
+            {
+                "genre_name": "Platform",
+                "tot": 224
+            },
+            {
+                "genre_name": "Strategy",
+                "tot": 210
+            }
+        ]
+    },
+    {
+        "platform": "Arcade",
+        "genres": [
+            {
+                "genre_name": "Shooter",
+                "tot": 875
+            },
+            {
+                "genre_name": "Arcade",
+                "tot": 869
+            },
+            {
+                "genre_name": "Fighting",
+                "tot": 398
+            },
+            {
+                "genre_name": "Sport",
+                "tot": 315
+            },
+            {
+                "genre_name": "Racing",
+                "tot": 261
+            },
+            {
+                "genre_name": "Platform",
+                "tot": 255
+            },
+            {
+                "genre_name": "Puzzle",
+                "tot": 254
+            }
+        ]
+    },
+    {
+        "platform": "Nintendo GameCube",
+        "genres": [
+            {
+                "genre_name": "Adventure",
+                "tot": 195
+            },
+            {
+                "genre_name": "Sport",
+                "tot": 166
+            },
+            {
+                "genre_name": "Racing",
+                "tot": 109
+            },
+            {
+                "genre_name": "Platform",
+                "tot": 108
+            },
+            {
+                "genre_name": "Shooter",
+                "tot": 93
+            },
+            {
+                "genre_name": "Simulator",
+                "tot": 74
+            },
+            {
+                "genre_name": "Fighting",
+                "tot": 71
+            }
+        ]
+    },
+    {
+        "platform": "Apple II",
+        "genres": [
+            {
+                "genre_name": "Adventure",
+                "tot": 296
+            },
+            {
+                "genre_name": "Arcade",
+                "tot": 170
+            },
+            {
+                "genre_name": "Strategy",
+                "tot": 163
+            },
+            {
+                "genre_name": "Shooter",
+                "tot": 128
+            },
+            {
+                "genre_name": "Simulator",
+                "tot": 116
+            },
+            {
+                "genre_name": "Role-playing (RPG)",
+                "tot": 111
+            },
+            {
+                "genre_name": "Turn-based strategy (TBS)",
+                "tot": 89
+            }
+        ]
+    },
+    {
+        "platform": "DVD Player",
+        "genres": [
+            {
+            "genre_name": "Visual Novel",
+            "tot": 14
+            },
+            {
+            "genre_name": "Adventure",
+            "tot": 10
+            },
+            {
+            "genre_name": "Point-and-click",
+            "tot": 2
+            },
+            {
+            "genre_name": "Indie",
+            "tot": 1
+            },
+            {
+            "genre_name": "Role-playing (RPG)",
+            "tot": 1
+            },
+            {
+            "genre_name": "Card & Board Game",
+            "tot": 1
+            }
+        ]
+    },
+    {
+        "platform": "Android",
+        "genres": [
+            {
+                "genre_name": "Indie",
+                "tot": 1491
+            },
+            {
+                "genre_name": "Adventure",
+                "tot": 1261
+            },
+            {
+                "genre_name": "Puzzle",
+                "tot": 1128
+            },
+            {
+                "genre_name": "Role-playing (RPG)",
+                "tot": 996
+            },
+            {
+                "genre_name": "Strategy",
+                "tot": 895
+            },
+            {
+                "genre_name": "Arcade",
+                "tot": 785
+            },
+            {
+                "genre_name": "Simulator",
+                "tot": 668
+            }
+        ]
+    },
+    {
+        "platform": "PlayStation 2",
+        "genres": [
+            {
+                "genre_name": "Adventure",
+                "tot": 659
+            },
+            {
+                "genre_name": "Sport",
+                "tot": 612
+            },
+            {
+                "genre_name": "Racing",
+                "tot": 423
+            },
+            {
+                "genre_name": "Shooter",
+                "tot": 371
+            },
+            {
+                "genre_name": "Simulator",
+                "tot": 355
+            },
+            {
+                "genre_name": "Fighting",
+                "tot": 267
+            },
+            {
+                "genre_name": "Role-playing (RPG)",
+                "tot": 263
+            }
+        ]
+    },
+    {
+        "platform": "PlayStation Vita",
+        "genres": [
+            {
+                "genre_name": "Adventure",
+                "tot": 610
+            },
+            {
+                "genre_name": "Indie",
+                "tot": 375
+            },
+            {
+                "genre_name": "Visual Novel",
+                "tot": 362
+            },
+            {
+                "genre_name": "Role-playing (RPG)",
+                "tot": 329
+            },
+            {
+                "genre_name": "Puzzle",
+                "tot": 260
+            },
+            {
+                "genre_name": "Platform",
+                "tot": 230
+            },
+            {
+                "genre_name": "Strategy",
+                "tot": 212
+            }
+        ]
+    },
+    {
+        "platform": "Super Famicom",
+        "genres": [
+            {
+                "genre_name": "Role-playing (RPG)",
+                "tot": 110
+            },
+            {
+                "genre_name": "Platform",
+                "tot": 65
+            },
+            {
+                "genre_name": "Adventure",
+                "tot": 57
+            },
+            {
+                "genre_name": "Puzzle",
+                "tot": 55
+            },
+            {
+                "genre_name": "Shooter",
+                "tot": 42
+            },
+            {
+                "genre_name": "Strategy",
+                "tot": 41
+            },
+            {
+                "genre_name": "Sport",
+                "tot": 32
+            }
+        ]
+    },
+    {
+        "platform": "Linux",
+        "genres": [
+            {
+                "genre_name": "Indie",
+                "tot": 5466
+            },
+            {
+                "genre_name": "Adventure",
+                "tot": 3084
+            },
+            {
+                "genre_name": "Strategy",
+                "tot": 1524
+            },
+            {
+                "genre_name": "Simulator",
+                "tot": 1328
+            },
+            {
+                "genre_name": "Role-playing (RPG)",
+                "tot": 1304
+            },
+            {
+                "genre_name": "Puzzle",
+                "tot": 1035
+            },
+            {
+                "genre_name": "Platform",
+                "tot": 753
+            }
+        ]
+    },
+    {
+        "platform": "Xbox",
+        "genres": [
+            {
+                "genre_name": "Sport",
+                "tot": 284
+            },
+            {
+                "genre_name": "Adventure",
+                "tot": 254
+            },
+            {
+                "genre_name": "Shooter",
+                "tot": 239
+            },
+            {
+                "genre_name": "Racing",
+                "tot": 186
+            },
+            {
+                "genre_name": "Simulator",
+                "tot": 154
+            },
+            {
+                "genre_name": "Platform",
+                "tot": 95
+            },
+            {
+                "genre_name": "Fighting",
+                "tot": 95
+            }
+        ]
+    },
+    {
+        "platform": "Sega Master System",
+        "genres": [
+            {
+                "genre_name": "Platform",
+                "tot": 113
+            },
+            {
+                "genre_name": "Arcade",
+                "tot": 99
+            },
+            {
+                "genre_name": "Shooter",
+                "tot": 85
+            },
+            {
+                "genre_name": "Sport",
+                "tot": 64
+            },
+            {
+                "genre_name": "Adventure",
+                "tot": 39
+            },
+            {
+                "genre_name": "Puzzle",
+                "tot": 29
+            },
+            {
+                "genre_name": "Racing",
+                "tot": 27
+            }
+        ]
+    },
+    {
+        "platform": "PlayStation 5",
+        "genres": [
+            {
+                "genre_name": "Adventure",
+                "tot": 441
+            },
+            {
+                "genre_name": "Indie",
+                "tot": 303
+            },
+            {
+                "genre_name": "Role-playing (RPG)",
+                "tot": 196
+            },
+            {
+                "genre_name": "Simulator",
+                "tot": 148
+            },
+            {
+                "genre_name": "Shooter",
+                "tot": 147
+            },
+            {
+                "genre_name": "Puzzle",
+                "tot": 116
+            },
+            {
+                "genre_name": "Platform",
+                "tot": 102
+            }
+        ]
+    },
+    {
+        "platform": "Sega CD",
+        "genres": [
+            {
+                "genre_name": "Adventure",
+                "tot": 54
+            },
+            {
+                "genre_name": "Shooter",
+                "tot": 42
+            },
+            {
+                "genre_name": "Platform",
+                "tot": 32
+            },
+            {
+                "genre_name": "Role-playing (RPG)",
+                "tot": 29
+            },
+            {
+                "genre_name": "Strategy",
+                "tot": 21
+            },
+            {
+                "genre_name": "Sport",
+                "tot": 21
+            },
+            {
+                "genre_name": "Fighting",
+                "tot": 20
+            }
+        ]
+    },
+    {
+        "platform": "PlayStation 3",
+        "genres": [
+            {
+                "genre_name": "Adventure",
+                "tot": 880
+            },
+            {
+                "genre_name": "Shooter",
+                "tot": 601
+            },
+            {
+                "genre_name": "Role-playing (RPG)",
+                "tot": 397
+            },
+            {
+                "genre_name": "Sport",
+                "tot": 382
+            },
+            {
+                "genre_name": "Strategy",
+                "tot": 327
+            },
+            {
+                "genre_name": "Platform",
+                "tot": 317
+            },
+            {
+                "genre_name": "Puzzle",
+                "tot": 312
+            }
+        ]
+    },
+    {
+        "platform": "Nintendo Switch",
+        "genres": [
+            {
+                "genre_name": "Adventure",
+                "tot": 3450
+            },
+            {
+                "genre_name": "Indie",
+                "tot": 3358
+            },
+            {
+                "genre_name": "Arcade",
+                "tot": 2015
+            },
+            {
+                "genre_name": "Puzzle",
+                "tot": 1967
+            },
+            {
+                "genre_name": "Platform",
+                "tot": 1363
+            },
+            {
+                "genre_name": "Role-playing (RPG)",
+                "tot": 1334
+            },
+            {
+                "genre_name": "Simulator",
+                "tot": 1301
+            }
+        ]
+    },
+    {
+        "platform": "Google Stadia",
+        "genres": [
+            {
+                "genre_name": "Adventure",
+                "tot": 147
+            },
+            {
+                "genre_name": "Indie",
+                "tot": 92
+            },
+            {
+                "genre_name": "Shooter",
+                "tot": 68
+            },
+            {
+                "genre_name": "Role-playing (RPG)",
+                "tot": 53
+            },
+            {
+                "genre_name": "Simulator",
+                "tot": 40
+            },
+            {
+                "genre_name": "Puzzle",
+                "tot": 38
+            },
+            {
+                "genre_name": "Platform",
+                "tot": 32
+            }
+        ]
+    },
+    {
+        "platform": "Game Boy",
+        "genres": [
+            {
+                "genre_name": "Platform",
+                "tot": 202
+            },
+            {
+                "genre_name": "Puzzle",
+                "tot": 116
+            },
+            {
+                "genre_name": "Adventure",
+                "tot": 101
+            },
+            {
+                "genre_name": "Sport",
+                "tot": 101
+            },
+            {
+                "genre_name": "Arcade",
+                "tot": 77
+            },
+            {
+                "genre_name": "Role-playing (RPG)",
+                "tot": 64
+            },
+            {
+                "genre_name": "Strategy",
+                "tot": 63
+            }
+        ]
+    },
+    {
+        "platform": "Windows Phone",
+        "genres": [
+            {
+                "genre_name": "Puzzle",
+                "tot": 76
+            },
+            {
+                "genre_name": "Adventure",
+                "tot": 60
+            },
+            {
+                "genre_name": "Indie",
+                "tot": 58
+            },
+            {
+                "genre_name": "Arcade",
+                "tot": 50
+            },
+            {
+                "genre_name": "Strategy",
+                "tot": 40
+            },
+            {
+                "genre_name": "Platform",
+                "tot": 38
+            },
+            {
+                "genre_name": "Simulator",
+                "tot": 24
+            }
+        ]
+    },
+    {
+        "platform": "Web browser",
+        "genres": [
+            {
+                "genre_name": "Indie",
+                "tot": 822
+            },
+            {
+                "genre_name": "Adventure",
+                "tot": 454
+            },
+            {
+                "genre_name": "Puzzle",
+                "tot": 310
+            },
+            {
+                "genre_name": "Simulator",
+                "tot": 261
+            },
+            {
+                "genre_name": "Platform",
+                "tot": 233
+            },
+            {
+                "genre_name": "Arcade",
+                "tot": 210
+            },
+            {
+                "genre_name": "Role-playing (RPG)",
+                "tot": 195
+            }
+        ]
+    },
+    {
+        "platform": "Game Boy Color",
+        "genres": [
+            {
+                "genre_name": "Platform",
+                "tot": 122
+            },
+            {
+                "genre_name": "Adventure",
+                "tot": 107
+            },
+            {
+                "genre_name": "Sport",
+                "tot": 105
+            },
+            {
+                "genre_name": "Role-playing (RPG)",
+                "tot": 76
+            },
+            {
+                "genre_name": "Racing",
+                "tot": 67
+            },
+            {
+                "genre_name": "Puzzle",
+                "tot": 65
+            },
+            {
+                "genre_name": "Strategy",
+                "tot": 40
+            }
+        ]
+    },
+    {
+        "platform": "Sega Saturn",
+        "genres": [
+            {
+                "genre_name": "Shooter",
+                "tot": 119
+            },
+            {
+                "genre_name": "Adventure",
+                "tot": 108
+            },
+            {
+                "genre_name": "Sport",
+                "tot": 83
+            },
+            {
+                "genre_name": "Fighting",
+                "tot": 64
+            },
+            {
+                "genre_name": "Arcade",
+                "tot": 62
+            },
+            {
+                "genre_name": "Role-playing (RPG)",
+                "tot": 61
+            },
+            {
+                "genre_name": "Strategy",
+                "tot": 56
+            }
+        ]
+    },
+    {
+        "platform": "Xbox One",
+        "genres": [
+            {
+                "genre_name": "Adventure",
+                "tot": 2446
+            },
+            {
+                "genre_name": "Indie",
+                "tot": 2297
+            },
+            {
+                "genre_name": "Role-playing (RPG)",
+                "tot": 1037
+            },
+            {
+                "genre_name": "Simulator",
+                "tot": 816
+            },
+            {
+                "genre_name": "Arcade",
+                "tot": 812
+            },
+            {
+                "genre_name": "Platform",
+                "tot": 801
+            },
+            {
+                "genre_name": "Puzzle",
+                "tot": 795
+            }
+        ]
+    }
+]
