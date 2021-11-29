@@ -1,0 +1,761 @@
+[
+  {
+    "genre": "Quiz/Trivia",
+    "engines": [
+      {
+        "engine_name": "Unreal Engine",
+        "tot": 198
+      },
+      {
+        "engine_name": "Ubisoft Snowdrop",
+        "tot": 138
+      },
+      {
+        "engine_name": "SCI1.1",
+        "tot": 84
+      },
+      {
+        "engine_name": "GlassBox",
+        "tot": 81
+      },
+      {
+        "engine_name": "MT Framework",
+        "tot": 69
+      },
+      {
+        "engine_name": "NeL",
+        "tot": 49
+      },
+      {
+        "engine_name": "Anvil",
+        "tot": 45
+      }
+    ]
+  },
+  {
+    "genre": "Turn-based strategy (TBS)",
+    "engines": [
+      {
+        "engine_name": "Unreal Engine",
+        "tot": 1137
+      },
+      {
+        "engine_name": "MT Framework",
+        "tot": 398
+      },
+      {
+        "engine_name": "SCI1.1",
+        "tot": 271
+      },
+      {
+        "engine_name": "Source",
+        "tot": 233
+      },
+      {
+        "engine_name": "GlassBox",
+        "tot": 231
+      },
+      {
+        "engine_name": "id Tech 4",
+        "tot": 192
+      },
+      {
+        "engine_name": "SAGE",
+        "tot": 175
+      }
+    ]
+  },
+  {
+    "genre": "Sport",
+    "engines": [
+      {
+        "engine_name": "Unreal Engine",
+        "tot": 2775
+      },
+      {
+        "engine_name": "Havok",
+        "tot": 612
+      },
+      {
+        "engine_name": "SAGE",
+        "tot": 565
+      },
+      {
+        "engine_name": "id Tech 4",
+        "tot": 554
+      },
+      {
+        "engine_name": "Ubisoft Snowdrop",
+        "tot": 496
+      },
+      {
+        "engine_name": "Pyrogenesis",
+        "tot": 476
+      },
+      {
+        "engine_name": "MT Framework",
+        "tot": 456
+      }
+    ]
+  },
+  {
+    "genre": "Racing",
+    "engines": [
+      {
+        "engine_name": "Unreal Engine",
+        "tot": 2178
+      },
+      {
+        "engine_name": "Havok",
+        "tot": 423
+      },
+      {
+        "engine_name": "SAGE",
+        "tot": 415
+      },
+      {
+        "engine_name": "MT Framework",
+        "tot": 379
+      },
+      {
+        "engine_name": "id Tech 4",
+        "tot": 367
+      },
+      {
+        "engine_name": "Pyrogenesis",
+        "tot": 342
+      },
+      {
+        "engine_name": "SCI1.1",
+        "tot": 298
+      }
+    ]
+  },
+  {
+    "genre": "Adventure",
+    "engines": [
+      {
+        "engine_name": "Unreal Engine",
+        "tot": 20644
+      },
+      {
+        "engine_name": "MT Framework",
+        "tot": 5228
+      },
+      {
+        "engine_name": "SAGE",
+        "tot": 3450
+      },
+      {
+        "engine_name": "id Tech 4",
+        "tot": 3092
+      },
+      {
+        "engine_name": "Source",
+        "tot": 3084
+      },
+      {
+        "engine_name": "Pyrogenesis",
+        "tot": 2446
+      },
+      {
+        "engine_name": "SCI1.1",
+        "tot": 1692
+      }
+    ]
+  },
+  {
+    "genre": "Pinball",
+    "engines": [
+      {
+        "engine_name": "Unreal Engine",
+        "tot": 115
+      },
+      {
+        "engine_name": "In-house engine",
+        "tot": 37
+      },
+      {
+        "engine_name": "MT Framework",
+        "tot": 34
+      },
+      {
+        "engine_name": "SCI1.1",
+        "tot": 24
+      },
+      {
+        "engine_name": "Unity",
+        "tot": 23
+      },
+      {
+        "engine_name": "GlassBox",
+        "tot": 18
+      },
+      {
+        "engine_name": "SAGE",
+        "tot": 18
+      }
+    ]
+  },
+  {
+    "genre": "Card & Board Game",
+    "engines": [
+      {
+        "engine_name": "Unreal Engine",
+        "tot": 520
+      },
+      {
+        "engine_name": "SAGE",
+        "tot": 460
+      },
+      {
+        "engine_name": "MT Framework",
+        "tot": 171
+      },
+      {
+        "engine_name": "SCI1.1",
+        "tot": 153
+      },
+      {
+        "engine_name": "GlassBox",
+        "tot": 144
+      },
+      {
+        "engine_name": "id Tech 4",
+        "tot": 139
+      },
+      {
+        "engine_name": "Pyrogenesis",
+        "tot": 110
+      }
+    ]
+  },
+  {
+    "genre": "Role-playing (RPG)",
+    "engines": [
+      {
+        "engine_name": "Unreal Engine",
+        "tot": 8327
+      },
+      {
+        "engine_name": "MT Framework",
+        "tot": 2021
+      },
+      {
+        "engine_name": "id Tech 4",
+        "tot": 1430
+      },
+      {
+        "engine_name": "SAGE",
+        "tot": 1334
+      },
+      {
+        "engine_name": "Source",
+        "tot": 1304
+      },
+      {
+        "engine_name": "SCI1.1",
+        "tot": 1148
+      },
+      {
+        "engine_name": "Pyrogenesis",
+        "tot": 1037
+      }
+    ]
+  },
+  {
+    "genre": "Puzzle",
+    "engines": [
+      {
+        "engine_name": "Unreal Engine",
+        "tot": 5150
+      },
+      {
+        "engine_name": "SAGE",
+        "tot": 1967
+      },
+      {
+        "engine_name": "MT Framework",
+        "tot": 1838
+      },
+      {
+        "engine_name": "SCI1.1",
+        "tot": 1699
+      },
+      {
+        "engine_name": "GlassBox",
+        "tot": 1128
+      },
+      {
+        "engine_name": "Source",
+        "tot": 1035
+      },
+      {
+        "engine_name": "id Tech 4",
+        "tot": 1019
+      }
+    ]
+  },
+  {
+    "genre": "Hack and slash/Beat 'em up",
+    "engines": [
+      {
+        "engine_name": "Unreal Engine",
+        "tot": 962
+      },
+      {
+        "engine_name": "id Tech 4",
+        "tot": 385
+      },
+      {
+        "engine_name": "Pyrogenesis",
+        "tot": 265
+      },
+      {
+        "engine_name": "SAGE",
+        "tot": 263
+      },
+      {
+        "engine_name": "Anvil",
+        "tot": 219
+      },
+      {
+        "engine_name": "MT Framework",
+        "tot": 172
+      },
+      {
+        "engine_name": "Telltale Tool",
+        "tot": 165
+      }
+    ]
+  },
+  {
+    "genre": "Point-and-click",
+    "engines": [
+      {
+        "engine_name": "Unreal Engine",
+        "tot": 1591
+      },
+      {
+        "engine_name": "MT Framework",
+        "tot": 593
+      },
+      {
+        "engine_name": "SCI1.1",
+        "tot": 265
+      },
+      {
+        "engine_name": "Source",
+        "tot": 262
+      },
+      {
+        "engine_name": "GlassBox",
+        "tot": 216
+      },
+      {
+        "engine_name": "SAGE",
+        "tot": 199
+      },
+      {
+        "engine_name": "Unity",
+        "tot": 164
+      }
+    ]
+  },
+  {
+    "genre": "Real Time Strategy (RTS)",
+    "engines": [
+      {
+        "engine_name": "Unreal Engine",
+        "tot": 1066
+      },
+      {
+        "engine_name": "MT Framework",
+        "tot": 280
+      },
+      {
+        "engine_name": "Source",
+        "tot": 183
+      },
+      {
+        "engine_name": "SCI1.1",
+        "tot": 135
+      },
+      {
+        "engine_name": "GlassBox",
+        "tot": 120
+      },
+      {
+        "engine_name": "id Tech 4",
+        "tot": 80
+      },
+      {
+        "engine_name": "Pyrogenesis",
+        "tot": 63
+      }
+    ]
+  },
+  {
+    "genre": "Arcade",
+    "engines": [
+      {
+        "engine_name": "Unreal Engine",
+        "tot": 2936
+      },
+      {
+        "engine_name": "SAGE",
+        "tot": 2015
+      },
+      {
+        "engine_name": "SCI1.1",
+        "tot": 1031
+      },
+      {
+        "engine_name": "id Tech 4",
+        "tot": 1030
+      },
+      {
+        "engine_name": "In-house engine",
+        "tot": 841
+      },
+      {
+        "engine_name": "MT Framework",
+        "tot": 821
+      },
+      {
+        "engine_name": "Pyrogenesis",
+        "tot": 812
+      }
+    ]
+  },
+  {
+    "genre": "Indie",
+    "engines": [
+      {
+        "engine_name": "Unreal Engine",
+        "tot": 30117
+      },
+      {
+        "engine_name": "MT Framework",
+        "tot": 7959
+      },
+      {
+        "engine_name": "Source",
+        "tot": 5466
+      },
+      {
+        "engine_name": "SAGE",
+        "tot": 3358
+      },
+      {
+        "engine_name": "id Tech 4",
+        "tot": 2608
+      },
+      {
+        "engine_name": "Pyrogenesis",
+        "tot": 2296
+      },
+      {
+        "engine_name": "SCI1.1",
+        "tot": 1695
+      }
+    ]
+  },
+  {
+    "genre": "Strategy",
+    "engines": [
+      {
+        "engine_name": "Unreal Engine",
+        "tot": 9753
+      },
+      {
+        "engine_name": "MT Framework",
+        "tot": 2620
+      },
+      {
+        "engine_name": "Source",
+        "tot": 1524
+      },
+      {
+        "engine_name": "SAGE",
+        "tot": 1259
+      },
+      {
+        "engine_name": "SCI1.1",
+        "tot": 1240
+      },
+      {
+        "engine_name": "id Tech 4",
+        "tot": 929
+      },
+      {
+        "engine_name": "GlassBox",
+        "tot": 895
+      }
+    ]
+  },
+  {
+    "genre": "Tactical",
+    "engines": [
+      {
+        "engine_name": "Unreal Engine",
+        "tot": 892
+      },
+      {
+        "engine_name": "MT Framework",
+        "tot": 227
+      },
+      {
+        "engine_name": "id Tech 4",
+        "tot": 191
+      },
+      {
+        "engine_name": "Pyrogenesis",
+        "tot": 163
+      },
+      {
+        "engine_name": "Source",
+        "tot": 150
+      },
+      {
+        "engine_name": "SCI1.1",
+        "tot": 137
+      },
+      {
+        "engine_name": "SAGE",
+        "tot": 128
+      }
+    ]
+  },
+  {
+    "genre": "Music",
+    "engines": [
+      {
+        "engine_name": "Unreal Engine",
+        "tot": 430
+      },
+      {
+        "engine_name": "SCI1.1",
+        "tot": 185
+      },
+      {
+        "engine_name": "NeL",
+        "tot": 168
+      },
+      {
+        "engine_name": "MT Framework",
+        "tot": 168
+      },
+      {
+        "engine_name": "Havok",
+        "tot": 161
+      },
+      {
+        "engine_name": "SAGE",
+        "tot": 160
+      },
+      {
+        "engine_name": "In-house engine",
+        "tot": 150
+      }
+    ]
+  },
+  {
+    "genre": "MOBA",
+    "engines": [
+      {
+        "engine_name": "Unreal Engine",
+        "tot": 39
+      },
+      {
+        "engine_name": "GlassBox",
+        "tot": 20
+      },
+      {
+        "engine_name": "SCI1.1",
+        "tot": 18
+      },
+      {
+        "engine_name": "MT Framework",
+        "tot": 10
+      },
+      {
+        "engine_name": "Source",
+        "tot": 7
+      },
+      {
+        "engine_name": "SAGE",
+        "tot": 5
+      },
+      {
+        "engine_name": "Pyrogenesis",
+        "tot": 4
+      }
+    ]
+  },
+  {
+    "genre": "Visual Novel",
+    "engines": [
+      {
+        "engine_name": "Unreal Engine",
+        "tot": 1815
+      },
+      {
+        "engine_name": "MT Framework",
+        "tot": 605
+      },
+      {
+        "engine_name": "Source",
+        "tot": 437
+      },
+      {
+        "engine_name": "Crystal Engine",
+        "tot": 362
+      },
+      {
+        "engine_name": "SAGE",
+        "tot": 322
+      },
+      {
+        "engine_name": "id Tech 4",
+        "tot": 251
+      },
+      {
+        "engine_name": "GlassBox",
+        "tot": 197
+      }
+    ]
+  },
+  {
+    "genre": "Simulator",
+    "engines": [
+      {
+        "engine_name": "Unreal Engine",
+        "tot": 9690
+      },
+      {
+        "engine_name": "MT Framework",
+        "tot": 2215
+      },
+      {
+        "engine_name": "Source",
+        "tot": 1328
+      },
+      {
+        "engine_name": "SAGE",
+        "tot": 1301
+      },
+      {
+        "engine_name": "id Tech 4",
+        "tot": 1034
+      },
+      {
+        "engine_name": "SCI1.1",
+        "tot": 1004
+      },
+      {
+        "engine_name": "Pyrogenesis",
+        "tot": 816
+      }
+    ]
+  },
+  {
+    "genre": "Shooter",
+    "engines": [
+      {
+        "engine_name": "Unreal Engine",
+        "tot": 4513
+      },
+      {
+        "engine_name": "id Tech 4",
+        "tot": 983
+      },
+      {
+        "engine_name": "In-house engine",
+        "tot": 850
+      },
+      {
+        "engine_name": "Pyrogenesis",
+        "tot": 782
+      },
+      {
+        "engine_name": "MT Framework",
+        "tot": 767
+      },
+      {
+        "engine_name": "SAGE",
+        "tot": 625
+      },
+      {
+        "engine_name": "Anvil",
+        "tot": 601
+      }
+    ]
+  },
+  {
+    "genre": "Platform",
+    "engines": [
+      {
+        "engine_name": "Unreal Engine",
+        "tot": 3859
+      },
+      {
+        "engine_name": "SAGE",
+        "tot": 1362
+      },
+      {
+        "engine_name": "MT Framework",
+        "tot": 1110
+      },
+      {
+        "engine_name": "id Tech 4",
+        "tot": 937
+      },
+      {
+        "engine_name": "Pyrogenesis",
+        "tot": 801
+      },
+      {
+        "engine_name": "Source",
+        "tot": 753
+      },
+      {
+        "engine_name": "SCI1.1",
+        "tot": 475
+      }
+    ]
+  },
+  {
+    "genre": "Fighting",
+    "engines": [
+      {
+        "engine_name": "Unreal Engine",
+        "tot": 937
+      },
+      {
+        "engine_name": "SAGE",
+        "tot": 413
+      },
+      {
+        "engine_name": "In-house engine",
+        "tot": 391
+      },
+      {
+        "engine_name": "id Tech 4",
+        "tot": 367
+      },
+      {
+        "engine_name": "Havok",
+        "tot": 267
+      },
+      {
+        "engine_name": "Pyrogenesis",
+        "tot": 261
+      },
+      {
+        "engine_name": "Scimitar",
+        "tot": 212
+      }
+    ]
+  }
+]
