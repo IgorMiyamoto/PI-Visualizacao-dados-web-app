@@ -31,6 +31,10 @@ label{
   padding: 5px;
 }
 
+.colored, a {
+  color: #61de2a;
+}
+
 .linha_de_graficos {
   margin-top: 20px;
   margin-bottom: 20px;
@@ -47,6 +51,10 @@ canvas{
 
 .div_do_canvas {
   margin-top: 20px;
+}
+
+.fonte {
+  text-align: right;
 }
 
 select {
