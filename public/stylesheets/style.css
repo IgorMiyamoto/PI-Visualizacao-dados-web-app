@@ -1,10 +1,69 @@
+* {
+  box-sizing: content-box;
+}
+
 body {
   padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  font: 8px;
   background-color: #252525;
   color: #e0e0e0;
 }
 
-a {
-  color: #00B7FF;
+h1, h2 {
+  text-align: center;
+}
+
+.linha_de_graficos {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: #151515;
+  border-radius: 20px;
+}
+
+canvas{
+  /* width:1000px !important; */
+  height:600px !important;
+}
+
+.div_do_canvas {
+  margin-top: 20px;
+}
+
+select {
+	/* Reset */
+  appearance: none;
+  border: 0;
+  outline: 0;
+  font: inherit;
+  /* Personalize */
+  width: 20em;
+  height: 2em;
+  padding: 0 4em 0 1em;
+  background: url(https://upload.wikimedia.org/wikipedia/commons/9/9d/Caret_down_font_awesome_whitevariation.svg) no-repeat right 0.8em center / 1.4em, linear-gradient(to left, rgba(255, 255, 255, 0.3) 3em, rgba(255, 255, 255, 0.2) 3em);
+  color: #e0e0e0;
+  border-radius: 0.25em;
+  box-shadow: 0 0 1em 0 rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+}
+
+select#escolher_plat {
+  width: 30em;
+}
+
+/* <option> colors */
+select option {
+  color: inherit;
+  background-color: #222222;
+}
+
+/* Remove focus outline */
+select:focus {
+  outline: none;
+}
+
+/* Remove IE arrow */
+select::-ms-expand {
+  display: none;
 }

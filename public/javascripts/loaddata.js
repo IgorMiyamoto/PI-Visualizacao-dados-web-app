@@ -1,11 +1,14 @@
 var myChart;
 var myChart2;
+var myChart3;
 let object;
 let object2;
+let object3;
 var barColors = ["#FF6800", "#424242","#515151","#606060","#6f6f6f","#7E7E7E", "#8D8D8D"];
 
 document.addEventListener('DOMContentLoaded', (event) => {
   document.getElementById("escolher_genero").addEventListener("change", (event) => {changeChart1(parseInt(event.target.value))});
+  document.getElementById("escolher_genero").addEventListener("change", (event) => {changeChart3(parseInt(event.target.value))});
   document.getElementById("escolher_plat").addEventListener("change", (event) => {changeChart2(parseInt(event.target.value))});
 
   let httpRequest = new XMLHttpRequest(); // asynchronous request
@@ -15,6 +18,8 @@ document.addEventListener('DOMContentLoaded', (event) => {
     if (this.readyState === this.DONE) {
       // when the request has completed
       object = JSON.parse(this.response);
+
+      changeChart1(0)
     }
   
     var newSelect = document.getElementById("escolher_genero");
@@ -25,9 +30,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
       opt.innerHTML = object[element].genre; // whatever property it has
 
       // then append it to the select element
-      newSelect.appendChild(opt);
-
-      changeChart1(0)
+      newSelect.appendChild(opt);      
     }
   });
 
@@ -38,6 +41,8 @@ document.addEventListener('DOMContentLoaded', (event) => {
     if (this.readyState === this.DONE) {
       // when the request has completed
       object2 = JSON.parse(this.response);
+
+      changeChart2(0)
     }
   
     var newSelect = document.getElementById("escolher_plat");
@@ -48,9 +53,19 @@ document.addEventListener('DOMContentLoaded', (event) => {
       opt.innerHTML = object2[element].platform; // whatever property it has
 
       // then append it to the select element
-      newSelect.appendChild(opt);
+      newSelect.appendChild(opt);      
+    }
+  });
 
-      changeChart2(0)
+  let httpRequest3 = new XMLHttpRequest(); // asynchronous request
+  httpRequest3.open("GET", "./data/result_platform_by_genre.json", true);
+  httpRequest3.send();
+  httpRequest3.addEventListener("readystatechange", function() {
+    if (this.readyState === this.DONE) {
+      // when the request has completed
+      object3 = JSON.parse(this.response);
+
+      changeChart3(0)
     }
   });
 
@@ -74,6 +89,8 @@ function changeChart1(index) {
     },
     options: {
       // legend: {display: true},
+      responsive: true,
+      maintainAspectRatio: false,
       title: {
         display: false,
         text: object[index].genre
@@ -121,6 +138,8 @@ function changeChart2(index) {
     },
     options: {
       // legend: {display: true},
+      responsive: true,
+      maintainAspectRatio: false,
       title: {
         display: false,
         text: object2[index].platform
@@ -150,8 +169,54 @@ function changeChart2(index) {
       }
     }
   });
+}
 
-  myChart2.defaults.global.defaultFontColor = "#fff";
+function changeChart3(index) {
+  if (myChart3) {
+    myChart3.destroy()
+  }
+  
+  myChart3 = new Chart("myChart3", {
+    type: "bar",
+    data: {
+      labels: object3[index].platforms.map(x => x.platform_name),
+      datasets: [{
+        backgroundColor: barColors,
+        data: object3[index].platforms.map(x => x.tot )
+      }]
+    },
+    options: {
+      // legend: {display: true},
+      responsive: true,
+      maintainAspectRatio: false,
+      title: {
+        display: false,
+      },
+      scales: {
+        xAxes: [{
+          display: true,
+          gridLines: {
+            display: true,
+            color: "#595959"
+          }
+        }],
+        yAxes: [{
+          display: true,
+          gridLines: {
+            display: true,
+            color: "#595959"
+          }
+        }]
+      },
+      legend: {
+        labels: {
+          filter: function(item, chart) {
+
+          }
+        }
+      }
+    }
+  });
 }
 
 function teste2(index) {

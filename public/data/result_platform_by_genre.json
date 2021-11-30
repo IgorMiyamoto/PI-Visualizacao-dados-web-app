@@ -1,0 +1,761 @@
+[
+  {
+    "genre": "Fighting",
+    "platforms": [
+      {
+        "platform_name": "PC (Microsoft Windows)",
+        "tot": 937
+      },
+      {
+        "platform_name": "Nintendo Switch",
+        "tot": 413
+      },
+      {
+        "platform_name": "Arcade",
+        "tot": 398
+      },
+      {
+        "platform_name": "PlayStation 4",
+        "tot": 368
+      },
+      {
+        "platform_name": "PlayStation 2",
+        "tot": 267
+      },
+      {
+        "platform_name": "Xbox One",
+        "tot": 261
+      },
+      {
+        "platform_name": "PlayStation",
+        "tot": 212
+      }
+    ]
+  },
+  {
+    "genre": "Shooter",
+    "platforms": [
+      {
+        "platform_name": "PC (Microsoft Windows)",
+        "tot": 4513
+      },
+      {
+        "platform_name": "PlayStation 4",
+        "tot": 986
+      },
+      {
+        "platform_name": "Arcade",
+        "tot": 875
+      },
+      {
+        "platform_name": "Mac",
+        "tot": 789
+      },
+      {
+        "platform_name": "Xbox One",
+        "tot": 783
+      },
+      {
+        "platform_name": "Nintendo Switch",
+        "tot": 625
+      },
+      {
+        "platform_name": "Commodore C64/128",
+        "tot": 618
+      }
+    ]
+  },
+  {
+    "genre": "Simulator",
+    "platforms": [
+      {
+        "platform_name": "PC (Microsoft Windows)",
+        "tot": 9690
+      },
+      {
+        "platform_name": "Mac",
+        "tot": 2224
+      },
+      {
+        "platform_name": "Linux",
+        "tot": 1328
+      },
+      {
+        "platform_name": "Nintendo Switch",
+        "tot": 1301
+      },
+      {
+        "platform_name": "PlayStation 4",
+        "tot": 1036
+      },
+      {
+        "platform_name": "iOS",
+        "tot": 1004
+      },
+      {
+        "platform_name": "Xbox One",
+        "tot": 816
+      }
+    ]
+  },
+  {
+    "genre": "Visual Novel",
+    "platforms": [
+      {
+        "platform_name": "PC (Microsoft Windows)",
+        "tot": 1815
+      },
+      {
+        "platform_name": "Mac",
+        "tot": 605
+      },
+      {
+        "platform_name": "Linux",
+        "tot": 437
+      },
+      {
+        "platform_name": "PlayStation Vita",
+        "tot": 362
+      },
+      {
+        "platform_name": "Nintendo Switch",
+        "tot": 322
+      },
+      {
+        "platform_name": "PlayStation 4",
+        "tot": 251
+      },
+      {
+        "platform_name": "Android",
+        "tot": 197
+      }
+    ]
+  },
+  {
+    "genre": "Quiz/Trivia",
+    "platforms": [
+      {
+        "platform_name": "PC (Microsoft Windows)",
+        "tot": 198
+      },
+      {
+        "platform_name": "Super Nintendo Entertainment System (SNES)",
+        "tot": 138
+      },
+      {
+        "platform_name": "iOS",
+        "tot": 84
+      },
+      {
+        "platform_name": "Android",
+        "tot": 81
+      },
+      {
+        "platform_name": "Mac",
+        "tot": 69
+      },
+      {
+        "platform_name": "Wii",
+        "tot": 49
+      },
+      {
+        "platform_name": "PlayStation 3",
+        "tot": 45
+      }
+    ]
+  },
+  {
+    "genre": "Platform",
+    "platforms": [
+      {
+        "platform_name": "PC (Microsoft Windows)",
+        "tot": 3859
+      },
+      {
+        "platform_name": "Nintendo Switch",
+        "tot": 1363
+      },
+      {
+        "platform_name": "Mac",
+        "tot": 1120
+      },
+      {
+        "platform_name": "PlayStation 4",
+        "tot": 937
+      },
+      {
+        "platform_name": "Xbox One",
+        "tot": 801
+      },
+      {
+        "platform_name": "Linux",
+        "tot": 753
+      },
+      {
+        "platform_name": "iOS",
+        "tot": 475
+      }
+    ]
+  },
+  {
+    "genre": "MOBA",
+    "platforms": [
+      {
+        "platform_name": "PC (Microsoft Windows)",
+        "tot": 39
+      },
+      {
+        "platform_name": "Android",
+        "tot": 20
+      },
+      {
+        "platform_name": "iOS",
+        "tot": 18
+      },
+      {
+        "platform_name": "Mac",
+        "tot": 10
+      },
+      {
+        "platform_name": "Linux",
+        "tot": 7
+      },
+      {
+        "platform_name": "Nintendo Switch",
+        "tot": 5
+      },
+      {
+        "platform_name": "Xbox One",
+        "tot": 4
+      }
+    ]
+  },
+  {
+    "genre": "Puzzle",
+    "platforms": [
+      {
+        "platform_name": "PC (Microsoft Windows)",
+        "tot": 5150
+      },
+      {
+        "platform_name": "Nintendo Switch",
+        "tot": 1967
+      },
+      {
+        "platform_name": "Mac",
+        "tot": 1845
+      },
+      {
+        "platform_name": "iOS",
+        "tot": 1699
+      },
+      {
+        "platform_name": "Android",
+        "tot": 1128
+      },
+      {
+        "platform_name": "Linux",
+        "tot": 1035
+      },
+      {
+        "platform_name": "PlayStation 4",
+        "tot": 1019
+      }
+    ]
+  },
+  {
+    "genre": "Tactical",
+    "platforms": [
+      {
+        "platform_name": "PC (Microsoft Windows)",
+        "tot": 892
+      },
+      {
+        "platform_name": "Mac",
+        "tot": 234
+      },
+      {
+        "platform_name": "PlayStation 4",
+        "tot": 193
+      },
+      {
+        "platform_name": "Xbox One",
+        "tot": 163
+      },
+      {
+        "platform_name": "Linux",
+        "tot": 150
+      },
+      {
+        "platform_name": "iOS",
+        "tot": 137
+      },
+      {
+        "platform_name": "Nintendo Switch",
+        "tot": 128
+      }
+    ]
+  },
+  {
+    "genre": "Hack and slash/Beat 'em up",
+    "platforms": [
+      {
+        "platform_name": "PC (Microsoft Windows)",
+        "tot": 962
+      },
+      {
+        "platform_name": "PlayStation 4",
+        "tot": 385
+      },
+      {
+        "platform_name": "Xbox One",
+        "tot": 265
+      },
+      {
+        "platform_name": "Nintendo Switch",
+        "tot": 263
+      },
+      {
+        "platform_name": "PlayStation 3",
+        "tot": 219
+      },
+      {
+        "platform_name": "Mac",
+        "tot": 176
+      },
+      {
+        "platform_name": "Xbox 360",
+        "tot": 169
+      }
+    ]
+  },
+  {
+    "genre": "Point-and-click",
+    "platforms": [
+      {
+        "platform_name": "PC (Microsoft Windows)",
+        "tot": 1591
+      },
+      {
+        "platform_name": "Mac",
+        "tot": 594
+      },
+      {
+        "platform_name": "iOS",
+        "tot": 265
+      },
+      {
+        "platform_name": "Linux",
+        "tot": 262
+      },
+      {
+        "platform_name": "Android",
+        "tot": 216
+      },
+      {
+        "platform_name": "Nintendo Switch",
+        "tot": 199
+      },
+      {
+        "platform_name": "PC DOS",
+        "tot": 164
+      }
+    ]
+  },
+  {
+    "genre": "Real Time Strategy (RTS)",
+    "platforms": [
+      {
+        "platform_name": "PC (Microsoft Windows)",
+        "tot": 1066
+      },
+      {
+        "platform_name": "Mac",
+        "tot": 281
+      },
+      {
+        "platform_name": "Linux",
+        "tot": 183
+      },
+      {
+        "platform_name": "iOS",
+        "tot": 135
+      },
+      {
+        "platform_name": "Android",
+        "tot": 120
+      },
+      {
+        "platform_name": "PlayStation 4",
+        "tot": 80
+      },
+      {
+        "platform_name": "Xbox One",
+        "tot": 63
+      }
+    ]
+  },
+  {
+    "genre": "Arcade",
+    "platforms": [
+      {
+        "platform_name": "PC (Microsoft Windows)",
+        "tot": 2936
+      },
+      {
+        "platform_name": "Nintendo Switch",
+        "tot": 2015
+      },
+      {
+        "platform_name": "iOS",
+        "tot": 1031
+      },
+      {
+        "platform_name": "PlayStation 4",
+        "tot": 1030
+      },
+      {
+        "platform_name": "Arcade",
+        "tot": 869
+      },
+      {
+        "platform_name": "Mac",
+        "tot": 825
+      },
+      {
+        "platform_name": "Xbox One",
+        "tot": 812
+      }
+    ]
+  },
+  {
+    "genre": "Sport",
+    "platforms": [
+      {
+        "platform_name": "PC (Microsoft Windows)",
+        "tot": 2775
+      },
+      {
+        "platform_name": "PlayStation 2",
+        "tot": 612
+      },
+      {
+        "platform_name": "Nintendo Switch",
+        "tot": 565
+      },
+      {
+        "platform_name": "PlayStation 4",
+        "tot": 555
+      },
+      {
+        "platform_name": "Super Nintendo Entertainment System (SNES)",
+        "tot": 496
+      },
+      {
+        "platform_name": "Xbox One",
+        "tot": 476
+      },
+      {
+        "platform_name": "Mac",
+        "tot": 464
+      }
+    ]
+  },
+  {
+    "genre": "Indie",
+    "platforms": [
+      {
+        "platform_name": "PC (Microsoft Windows)",
+        "tot": 30117
+      },
+      {
+        "platform_name": "Mac",
+        "tot": 7962
+      },
+      {
+        "platform_name": "Linux",
+        "tot": 5466
+      },
+      {
+        "platform_name": "Nintendo Switch",
+        "tot": 3358
+      },
+      {
+        "platform_name": "PlayStation 4",
+        "tot": 2608
+      },
+      {
+        "platform_name": "Xbox One",
+        "tot": 2297
+      },
+      {
+        "platform_name": "iOS",
+        "tot": 1695
+      }
+    ]
+  },
+  {
+    "genre": "Strategy",
+    "platforms": [
+      {
+        "platform_name": "PC (Microsoft Windows)",
+        "tot": 9753
+      },
+      {
+        "platform_name": "Mac",
+        "tot": 2630
+      },
+      {
+        "platform_name": "Linux",
+        "tot": 1524
+      },
+      {
+        "platform_name": "Nintendo Switch",
+        "tot": 1259
+      },
+      {
+        "platform_name": "iOS",
+        "tot": 1240
+      },
+      {
+        "platform_name": "PlayStation 4",
+        "tot": 929
+      },
+      {
+        "platform_name": "Android",
+        "tot": 895
+      }
+    ]
+  },
+  {
+    "genre": "Adventure",
+    "platforms": [
+      {
+        "platform_name": "PC (Microsoft Windows)",
+        "tot": 20644
+      },
+      {
+        "platform_name": "Mac",
+        "tot": 5257
+      },
+      {
+        "platform_name": "Nintendo Switch",
+        "tot": 3450
+      },
+      {
+        "platform_name": "PlayStation 4",
+        "tot": 3097
+      },
+      {
+        "platform_name": "Linux",
+        "tot": 3084
+      },
+      {
+        "platform_name": "Xbox One",
+        "tot": 2446
+      },
+      {
+        "platform_name": "iOS",
+        "tot": 1692
+      }
+    ]
+  },
+  {
+    "genre": "Card & Board Game",
+    "platforms": [
+      {
+        "platform_name": "PC (Microsoft Windows)",
+        "tot": 520
+      },
+      {
+        "platform_name": "Nintendo Switch",
+        "tot": 460
+      },
+      {
+        "platform_name": "Mac",
+        "tot": 171
+      },
+      {
+        "platform_name": "iOS",
+        "tot": 153
+      },
+      {
+        "platform_name": "Android",
+        "tot": 144
+      },
+      {
+        "platform_name": "PlayStation 4",
+        "tot": 139
+      },
+      {
+        "platform_name": "Xbox One",
+        "tot": 110
+      }
+    ]
+  },
+  {
+    "genre": "Pinball",
+    "platforms": [
+      {
+        "platform_name": "PC (Microsoft Windows)",
+        "tot": 115
+      },
+      {
+        "platform_name": "Arcade",
+        "tot": 38
+      },
+      {
+        "platform_name": "Mac",
+        "tot": 34
+      },
+      {
+        "platform_name": "iOS",
+        "tot": 24
+      },
+      {
+        "platform_name": "Amiga",
+        "tot": 23
+      },
+      {
+        "platform_name": "PC DOS",
+        "tot": 23
+      },
+      {
+        "platform_name": "PlayStation",
+        "tot": 18
+      }
+    ]
+  },
+  {
+    "genre": "Racing",
+    "platforms": [
+      {
+        "platform_name": "PC (Microsoft Windows)",
+        "tot": 2178
+      },
+      {
+        "platform_name": "PlayStation 2",
+        "tot": 423
+      },
+      {
+        "platform_name": "Nintendo Switch",
+        "tot": 415
+      },
+      {
+        "platform_name": "Mac",
+        "tot": 388
+      },
+      {
+        "platform_name": "PlayStation 4",
+        "tot": 367
+      },
+      {
+        "platform_name": "Xbox One",
+        "tot": 342
+      },
+      {
+        "platform_name": "iOS",
+        "tot": 298
+      }
+    ]
+  },
+  {
+    "genre": "Role-playing (RPG)",
+    "platforms": [
+      {
+        "platform_name": "PC (Microsoft Windows)",
+        "tot": 8327
+      },
+      {
+        "platform_name": "Mac",
+        "tot": 2028
+      },
+      {
+        "platform_name": "PlayStation 4",
+        "tot": 1431
+      },
+      {
+        "platform_name": "Nintendo Switch",
+        "tot": 1334
+      },
+      {
+        "platform_name": "Linux",
+        "tot": 1304
+      },
+      {
+        "platform_name": "iOS",
+        "tot": 1148
+      },
+      {
+        "platform_name": "Xbox One",
+        "tot": 1037
+      }
+    ]
+  },
+  {
+    "genre": "Music",
+    "platforms": [
+      {
+        "platform_name": "PC (Microsoft Windows)",
+        "tot": 430
+      },
+      {
+        "platform_name": "iOS",
+        "tot": 185
+      },
+      {
+        "platform_name": "Wii",
+        "tot": 168
+      },
+      {
+        "platform_name": "Mac",
+        "tot": 168
+      },
+      {
+        "platform_name": "PlayStation 2",
+        "tot": 161
+      },
+      {
+        "platform_name": "Nintendo Switch",
+        "tot": 160
+      },
+      {
+        "platform_name": "Arcade",
+        "tot": 150
+      }
+    ]
+  },
+  {
+    "genre": "Turn-based strategy (TBS)",
+    "platforms": [
+      {
+        "platform_name": "PC (Microsoft Windows)",
+        "tot": 1137
+      },
+      {
+        "platform_name": "Mac",
+        "tot": 398
+      },
+      {
+        "platform_name": "iOS",
+        "tot": 271
+      },
+      {
+        "platform_name": "Linux",
+        "tot": 233
+      },
+      {
+        "platform_name": "Android",
+        "tot": 231
+      },
+      {
+        "platform_name": "PlayStation 4",
+        "tot": 192
+      },
+      {
+        "platform_name": "Nintendo Switch",
+        "tot": 175
+      }
+    ]
+  }
+]
