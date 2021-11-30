@@ -2,18 +2,33 @@
     <head>
         <script
         src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.4/Chart.js">
-        </script>        
+        </script>
+        <script src="./javascripts/loaddata.js"></script> 
+        <link rel="stylesheet" href="./stylesheets/style.css">
     </head>
     <body>
-        <h1>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</h1>
-        <div>
-            <canvas id="myChart" style="width:100%;max-width:700px"></canvas>
-        </div>
+        <h1>Visualização de Dados: Engines e Plataformas</h1>
+
+        <h2>Engines mais comuns por gênero<h2>
 
         <label for="generos">Escolha um Gênero:</label>
 
         <select name="generos" id="escolher_genero"></select>
 
-        <script src="./javascripts/loaddata.js"></script> 
+        <div>
+            <canvas id="myChart" style="width:100%;max-width:700px"></canvas>
+        </div>
+        
+        <h2>Gêneros mais comuns por plataforma<h2>
+
+        <label for="generos">Escolha uma plataforma:</label>
+
+        <select name="generos" id="escolher_plat"></select>
+
+        <div>
+            <canvas id="myChart2" style="width:100%;max-width:700px"></canvas>
+        </div>   
+
+        
     </body>
 </html>
