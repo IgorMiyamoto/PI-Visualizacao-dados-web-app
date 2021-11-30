@@ -10,7 +10,7 @@
     <body>
 
         <div class="row justify-content-evenly">
-            <h1 class="col-6">Visualização de Dados</h1>
+            <h1 class="col-6">PI 6 - Visualização de Dados</h1>
         </div>
 
         <div class="row justify-content-evenly">
@@ -19,21 +19,23 @@
 
         <div class="linha_de_graficos">
 
-            <h2>Engines mais comuns por gênero<h2>
-
-            <label for="generos">Escolha um Gênero:</label>
+            <!-- <label for="generos">Escolha um Gênero:</label> -->
 
             <!-- <select name="generos" id="escolher_genero"></select> -->
 
-            <select id="escolher_genero"></select>
+            <div class="row justify-content-evenly">
+                <select id="escolher_genero" class="col-4"></select>
+            </div>            
 
             <div class="row justify-content-evenly">
 
                 <div class="div_do_canvas col-5">
+                    <h3><span class="underline">Engines</span> mais comuns por <span class="highlight">gênero</span></h3>
                     <canvas id="myChart"></canvas>
                 </div>
 
                 <div class="div_do_canvas col-5">
+                    <h3><span class="underline">Plataformas</span> mais comuns por <span class="highlight">gênero</span></h3>
                     <canvas id="myChart3"></canvas>
                 </div>
 
@@ -43,13 +45,14 @@
         
         <div class="linha_de_graficos">
 
-            <label for="generos">Escolha uma plataforma:</label>
-
-            <select name="generos" id="escolher_plat"></select>
+            <!-- <label for="generos">Escolha uma plataforma:</label> -->
 
             <div class="row justify-content-evenly">
                 <div class="div_do_canvas col-10">
-                    <h3>Gêneros mais comuns por plataforma</h3>
+                    <div class="row justify-content-start">
+                        <h3 class="col-4"><span class="underline">Gênero</span> mais comuns por <span class="highlight">plataforma</span></h3>
+                        <div class="col-4"><select name="generos" id="escolher_plat"></select></div>
+                    </div>                    
                     <canvas id="myChart2"></canvas>
                 </div>
             </div>

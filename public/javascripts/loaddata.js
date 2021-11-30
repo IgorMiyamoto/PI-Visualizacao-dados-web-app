@@ -4,7 +4,8 @@ var myChart3;
 let object;
 let object2;
 let object3;
-var barColors = ["#FF6800", "#424242","#515151","#606060","#6f6f6f","#7E7E7E", "#8D8D8D"];
+// var barColors = ["#FF6800", "#424242","#515151","#606060","#6f6f6f","#7E7E7E", "#8D8D8D"];
+var barColors = ["#61de2a", "#424242","#515151","#606060","#6f6f6f","#7E7E7E", "#8D8D8D"];
 
 document.addEventListener('DOMContentLoaded', (event) => {
   document.getElementById("escolher_genero").addEventListener("change", (event) => {changeChart1(parseInt(event.target.value))});
